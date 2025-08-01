@@ -1,17 +1,14 @@
 1. Can you tell us a bit about yourself?
+
 I’m a programmer and AI developer with a strong background in Python, machine learning, and web frameworks. I’m a logical and hardworking coder who enjoys solving problems, facing new challenges, and finding creative solutions. Additionally, I thrive in team environments and have experience as a team leader, where I set goals and worked collaboratively to achieve them.
 
 2. What are your key technical skills?
+
 My key technical skills include:
-
 Programming languages: Python, JavaScript, HTML, CSS
-
 Database technologies: MongoDB, MySQL, PostgreSQL
-
 Web frameworks
-
 Machine learning and AI model integration
-
 Data analysis
 
 I also have experience with tools like AWS and expertise in building ETL processes and developing production pipelines.
